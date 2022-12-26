@@ -1,0 +1,71 @@
+SVG {
+  width: 240px;
+  border: solid 2px;
+}
+
+#pic1 {
+  stroke: #006284;
+  stroke-width: 3px;
+}
+#pic1 circle {
+  fill: white;
+}
+#pic2 {
+  stroke: #EEA9A9;
+  stroke-width: 3px;
+}
+#pic2 circle {
+  fill: white;
+}
+#pic2 rect {
+  fill: none;
+}
+
+#pic3 {
+  stroke: #563F2E;
+  stroke-width: 2px;
+}
+#pic3 polyline {
+  fill: none;
+}
+
+#pic4 {
+  stroke: #00AA90;
+  stroke-width: 2px;
+}
+#pic4 rect {
+  fill: #00AA90;
+}
+
+#pic5 {
+  stroke: #C18A26;
+  stroke-width: 2px;
+}
+#pic5 rect {
+  fill: #C18A26;
+}
+
+#pic6 {
+  stroke: #1E88A8;
+  stroke-width: 2px;
+  fill: none;
+}
+#pic6 circle {
+  fill: #F7D94C;
+  stroke: none;
+}
+#pic6 text {
+  fill: #62592C;
+  stroke: none;
+}
+
+#pic7 {
+  stroke: #C1328E;
+  stroke-width: 3px;
+}
+#pic7 circle {
+  fill: white;
+}
+#pic7 rect {
+  fill: none;
+}
