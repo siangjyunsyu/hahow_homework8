@@ -57,6 +57,7 @@ SVG {
 #pic6 text {
   fill: #62592C;
   stroke: none;
+  font-size: smaller;
 }
 
 #pic7 {
@@ -68,4 +69,4 @@ SVG {
 }
 #pic7 rect {
   fill: none;
-}
+}/*# sourceMappingURL=style.css.map */
